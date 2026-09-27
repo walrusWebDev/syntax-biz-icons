@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666665 8.4666666"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <rect
+     x="0.1207492"
+     y="0.1281354"
+     width="8.2410583"
+     height="8.2410583"
+     rx="1.0988078"
+     fill="#1c1618"
+     stroke="#4a282d"
+     stroke-width="0.206026"
+     id="rect1"
+     style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace;stroke:none;fill:none" />
+  <rect
+     x="1.768961"
+     y="0.9522413"
+     width="3.5711255"
+     height="6.3181453"
+     rx="0.54940391"
+     fill="#151922"
+     stroke="#64748b"
+     stroke-width="0.206026"
+     id="rect2"
+     style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace" />
+  <line
+     x1="3.0051198"
+     y1="1.5016452"
+     x2="4.1039276"
+     y2="1.5016452"
+     stroke="#475569"
+     stroke-width="0.206026"
+     stroke-linecap="round"
+     id="line2"
+     style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace" />
+  <circle
+     cx="3.5545237"
+     cy="6.5836315"
+     r="0.20602646"
+     fill="#475569"
+     id="circle2"
+     style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace;stroke-width:0.137351" />
+  <path
+     d="M 2.8677688,2.600453 H 4.2412786 L 3.6918747,3.4245589 4.2412786,4.2486648 H 2.8677688 L 3.4171727,3.4245589 Z"
+     fill="#2a161b"
+     stroke="#fbbf24"
+     stroke-width="0.206026"
+     stroke-linejoin="round"
+     id="path2"
+     style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace" />
+  <circle
+     cx="6.0268412"
+     cy="2.875155"
+     r="0.96145684"
+     fill="#2d1217"
+     stroke="#ef4444"
+     stroke-width="0.206026"
+     id="circle3"
+     style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace" />
+  <text
+     x="5.6147885"
+     y="3.2872078"
+     fill="#ef4444"
+     font-size="1.23616px"
+     font-weight="bold"
+     id="text3"
+     style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace;stroke-width:0.137351">!</text>
+</svg>

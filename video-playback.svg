@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666665 8.4666666"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="video-playback.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.984375"
+     inkscape:cx="24.144404"
+     inkscape:cy="17.058965"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <rect
+     x="0.1207472"
+     y="0.1196351"
+     width="8.2363443"
+     height="8.2363443"
+     rx="1.0981792"
+     fill="#131b28"
+     stroke="#334155"
+     stroke-width="0.205909"
+     id="rect3"
+     style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace;stroke:none;fill:none" />
+  <rect
+     x="0.1136447"
+     y="0.1118147"
+     width="8.2380495"
+     height="8.2380495"
+     rx="1.0984067"
+     fill="#131b28"
+     stroke="#334155"
+     stroke-width="0.205951"
+     id="rect1"
+     style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace;stroke:none;fill:none" />
+  <rect
+     x="1.2120514"
+     y="1.7594247"
+     width="6.0412364"
+     height="4.6682281"
+     rx="0.82380497"
+     fill="#1c2536"
+     stroke="#64748b"
+     stroke-width="0.205951"
+     id="rect2"
+     style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace" />
+  <line
+     x1="2.0358562"
+     y1="5.603848"
+     x2="6.4294829"
+     y2="5.603848"
+     stroke="#334155"
+     stroke-width="0.205951"
+     stroke-linecap="round"
+     id="line2"
+     style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace" />
+  <line
+     x1="2.0358562"
+     y1="5.603848"
+     x2="3.9580679"
+     y2="5.603848"
+     stroke="#10b981"
+     stroke-width="0.274602"
+     stroke-linecap="round"
+     id="line3"
+     style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace" />
+  <circle
+     cx="3.9580679"
+     cy="5.603848"
+     r="0.27460167"
+     fill="#fbbf24"
+     id="circle3"
+     style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace;stroke-width:0.137301" />
+  <polygon
+     points="46,38 36,44 36,32 "
+     fill="#10b981"
+     stroke="#10b981"
+     stroke-width="1.5"
+     stroke-linejoin="round"
+     id="polygon3"
+     transform="matrix(0.13730083,0,0,0.13730083,-1.2593636,-1.2611936)"
+     style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace" />
+</svg>

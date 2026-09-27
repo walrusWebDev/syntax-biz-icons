@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666665 8.4666666"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <path
+       id="polygon111"
+       style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace;fill:#112720;stroke:#10b981;stroke-width:0.263284"
+       d="M 7.7437774,5.8182603 4.2333329,8.2755733 0.72288927,5.8182603 V 1.956774 L 4.2333329,0.20154763 7.7437774,1.956774 Z" />
+    <path
+       id="polyline111"
+       style="font-family:'JetBrains Mono', 'IBM Plex Mono', monospace;fill:none;stroke:#10b981;stroke-width:0.438805;stroke-linecap:round;stroke-linejoin:round"
+       d="M 2.3025892,4.0630405 3.7067664,5.4672137 6.1640775,2.3078141" />
+  </g>
+</svg>
