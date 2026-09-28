@@ -28,3 +28,5 @@ These should be designed as 1px or 2px stroke-based line icons using `hex code` 
 - Clock / SLA Response: A minimal circular clock face with a bold accent hand pointing to a fast interval.
 - Diagnostics / Audit: A magnifying glass intersecting a code bracket or a health pulse line.
 - Video Playback: A streamlined minimalist play button node inside a rounded bento container.
+
+<img width="923" height="601" alt="image" src="https://github.com/user-attachments/assets/308b530a-ea73-49b5-9114-5860e1f798da" />
